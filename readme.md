@@ -29,3 +29,7 @@ A abertura e fechamento de uma tag é a combinação de sinais de menor e maior
 ````
 <h1>O CONTEÚDO AQUI</h1>
 ````
+## Aula 6 - Atributos
+Atributos são itens que utilizamos para definir algumas configurações as tags, os atributos não booleano são compostos por um nome, sinal de igual e aspas duplas para evitar conflito
+
+Podemos ate usar aspas simples mais ai ficamos exposto a erros
