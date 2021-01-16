@@ -90,3 +90,6 @@ A criação dele é muito fácil temos somente que criar os arquivos com as exte
 ## Aula 13 - Semântica
 A semântica é muito utilizada por site de busca e por programas terceiros
 Devemos criar grupos por tipo de dado como cabeçalho, rodapé, fotos e outros
+
+## Aula 14 - Títulos e Parágrafos
+A utilização destes elemento cria um texto semântico assim permitindo uma experiencia para o usuário boa, pois um site mal montado todos iram ignorar
