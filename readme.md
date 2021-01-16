@@ -61,3 +61,16 @@ O posicionamento dos elementos quer dizer que alguns tipos de tags quando forem 
 
 ## Aula 9 - Praticando
 Iremos colocar tudo em pratica criando tags, quebrando linhas, destacando alguns texto e criando link para um site
+
+## Aula 10 - Caracteres Reservados
+A utilização de caracteres especial, principalmente os utilizados na programação, pode criar bugs fazendo a aplicação não funcionar
+
+Para evitar isso devemos usar os comandos especiais para mostrar que queremos um carácter como abaixo, com este método conseguimos aplicar qualquer tipo de carácter
+````
+&lt; <
+&amp; &
+&quot; "
+&iecy; e
+````
+
+Para uma lista completo dos comandos temos o site [Dev Media](http://arquivo.devmedia.com.br/artigos/devmedia/html-entities.html)
