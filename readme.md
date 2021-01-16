@@ -33,3 +33,18 @@ A abertura e fechamento de uma tag é a combinação de sinais de menor e maior
 Atributos são itens que utilizamos para definir algumas configurações as tags, os atributos não booleano são compostos por um nome, sinal de igual e aspas duplas para evitar conflito
 
 Podemos ate usar aspas simples mais ai ficamos exposto a erros
+
+## Aula 7 - Atributos Globais
+Os atributos globais são aplicados a todas as tags e estes são os mais utilizados
+````
+class: Muito usado para criação de estilos
+contenteditable: Permite alterações
+data-qualquer: Usamo com uma linguagem de programação
+hidden: Oculta uma tag
+id: Identifica um tag onde o nome não pode repetir
+style: Cria uma estilização
+tabindex: Define a sequencia dos tabs
+title: Define um título para a tag
+````
+
+Existe diversos atributos, para ver mais temos o site [Developer Mozilla - Global Attributes](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes)
