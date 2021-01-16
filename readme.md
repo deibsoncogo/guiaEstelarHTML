@@ -58,3 +58,5 @@ O posicionamento dos elementos quer dizer que alguns tipos de tags quando forem 
 ````
 <br/>
 ````
+
+## Aula 9 - Praticando
