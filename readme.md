@@ -48,3 +48,13 @@ title: Define um título para a tag
 ````
 
 Existe diversos atributos, para ver mais temos o site [Developer Mozilla - Global Attributes](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes)
+
+## Aula 8 - Aninhamento Hierarquia
+Conseguimos colocar tag dentro de outras mais devemos ficar atento com sua abertura e fechamento
+
+Quando colocamos uma dentro de outra elas acabam recebendo uma hierarquia de familia onde a próxima tag será filha da anterior
+
+O posicionamento dos elementos quer dizer que alguns tipos de tags quando forem criados iram criar uma nova linha com o conteúdo, se quisermos força a quebra de uma linha usamos o comando abaixo
+````
+<br/>
+````
