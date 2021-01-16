@@ -22,3 +22,10 @@ Existe os comentários que nos ajudar a lembrar rapidamente para que serve aquel
 ````
 <!-- SEU COMENTÁRIO AQUI -->
 ````
+## Aula 5 - Anatomia das Tags
+O Emmet Abbreviation vem instalado junto do Visual Studio Code facilitando a digitação de comandos pois ele possui diversos atalhos
+
+A abertura e fechamento de uma tag é a combinação de sinais de menor e maior
+````
+<h1>O CONTEÚDO AQUI</h1>
+````
