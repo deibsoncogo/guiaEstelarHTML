@@ -74,3 +74,12 @@ Para evitar isso devemos usar os comandos especiais para mostrar que queremos um
 ````
 
 Para uma lista completo dos comandos temos o site [Dev Media](http://arquivo.devmedia.com.br/artigos/devmedia/html-entities.html)
+
+## Aula 11 - Anatomia Documento
+Isto é as tags que devemos sempre criar para o nosso site poder funcionar, podemos criar manualmente ou utilizar comandos rápidos, os comandos abaixo servem para criar as tags com especificações únicas
+````
+!
+!!
+html:5
+html:xml
+````
