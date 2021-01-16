@@ -60,3 +60,4 @@ O posicionamento dos elementos quer dizer que alguns tipos de tags quando forem 
 ````
 
 ## Aula 9 - Praticando
+Iremos colocar tudo em pratica criando tags, quebrando linhas, destacando alguns texto e criando link para um site
