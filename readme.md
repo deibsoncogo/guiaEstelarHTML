@@ -83,3 +83,6 @@ Isto é as tags que devemos sempre criar para o nosso site poder funcionar, pode
 html:5
 html:xml
 ````
+
+## Aula 12 - Criando Projetos
+A criação dele é muito fácil temos somente que criar os arquivos com as extensões correta como html e as pastas em um local onde conseguimos achar depois
