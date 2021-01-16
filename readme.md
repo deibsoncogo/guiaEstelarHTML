@@ -8,3 +8,8 @@ Iremos aprender sobre os conceitos essenciais, tags, atributos, alinhamentos, hi
 
 ## Aula 2 - Instalando plugin de preview HTML
 Para visualizar oque digitamos e para a página atualizar automaticamente iremos usar a dependência *HTML Preview*, esta dependência vai mostrar tudo que acontece mesmo se o arquivo não foi salvo novamente
+
+## Aula 3 - O que é HTML
+O HTML é uma abreviação de Hypertext Markup Language
+
+Ela é uma linguagem de marcação de hyper textos, a marcação é a criação de tags e o hyper texto que alem de escrevemos damos funcionalidades ao mesmo como criação de links, está linguagem é totalmente diferente de uma de programação como o Java ou JavaScript
