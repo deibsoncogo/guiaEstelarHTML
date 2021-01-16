@@ -86,3 +86,7 @@ html:xml
 
 ## Aula 12 - Criando Projetos
 A criação dele é muito fácil temos somente que criar os arquivos com as extensões correta como html e as pastas em um local onde conseguimos achar depois
+
+## Aula 13 - Semântica
+A semântica é muito utilizada por site de busca e por programas terceiros
+Devemos criar grupos por tipo de dado como cabeçalho, rodapé, fotos e outros
