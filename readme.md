@@ -206,3 +206,6 @@ Uma falha foi a não criação dos arquivos principais por um dos atalhos abaixo
 !
 html:5
 ````
+
+## Aula 30 - Tabelas
+Aprendemos a criar tabelas, elas realizam uma organização de dados perfeita mais elas são pouca flexível assim dependente de onde ela é acessada pode ficar distorcida e ela precisa de estilização, não devemos usar para criar layout
