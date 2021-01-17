@@ -227,3 +227,7 @@ Agora criamos os delimitadores da tabela e seu título
 <tbody></tbody> <!-- DEFINE ONDE INICIA AS LINHAS COM OS DADOS -->
 <tfoot></tfoot> <!-- DEFINE A ÁREA DE TOTAL -->
 ````
+
+## Aula 33 - Tabela complexa
+Vimos um moledo onde a tabela possui diversos cabeçalhos
+Com isso na próxima aula iremos montar ele
