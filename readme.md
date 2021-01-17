@@ -142,3 +142,12 @@ Para mostrar os códigos de uma linguagem de programação temos o comando abaix
 <code></code>
 <pre></pre>
 ````
+
+## Aula 21 - Elementos Genéricos
+No HTML temos tags genéricas onde a primeira é utilizada para agrupar textos em formato de linha e a segunda conteúdos no formato de grupo
+````
+<div></div>
+<span></span>
+````
+
+Mesmo parecendo inútil separar os tipos de informações deveremos fazer, pois assim com a combinação do **CSS** teremos mais facilidade de usar e criaremos uma boa semântica
