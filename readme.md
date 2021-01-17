@@ -135,3 +135,10 @@ Temos um outro tipo de agrupamento de dados como lista
 <dt></dt>
 <dd></dd>
 ````
+
+## Aula 20 - Representação de código
+Para mostrar os códigos de uma linguagem de programação temos o comando abaixo, podemos casar ele com o segundo pois ai todos os espaços e enter digitados não sumiram
+````
+<code></code>
+<pre></pre>
+````
