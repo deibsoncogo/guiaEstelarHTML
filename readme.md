@@ -1,6 +1,8 @@
 # Rocketseat - Guia Estelar de HTML
 Neste curso iremos aprender o básico de HTML com _**Mayk Brito**_ da Rocketseat
 
+No site da [W3 Schools](https://www.w3schools.com/tags/) temos um descrição de todos os tags
+
 >HTML é a base de qualquer website ou aplicação web e nesse guia vamos dominar essa linguagem e tudo que podemos criar com ela
 
 ## Aula 1 - Abertura
@@ -151,3 +153,18 @@ No HTML temos tags genéricas onde a primeira é utilizada para agrupar textos e
 ````
 
 Mesmo parecendo inútil separar os tipos de informações deveremos fazer, pois assim com a combinação do **CSS** teremos mais facilidade de usar e criaremos uma boa semântica
+
+## Aula 22 - Conhecendo a tag âncora
+Este item é o famoso hyperlink onde pegamos um texto e fazemos ele nos levar ou abrir algo clicado nele
+````
+<a href=""></a>
+````
+
+O atributo **target** defini como o link deve ser aberto
+````
+_blank: Em uma nova janela
+_self: Na mesma janela (Este é o padrão)
+_parent: No quadro pai
+_top: Em todo o corpo da janela
+framename: No iframe nomeado
+````
