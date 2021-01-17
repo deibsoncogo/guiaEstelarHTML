@@ -185,3 +185,9 @@ Podemos colocar qualquer coisa dentro de um a como podemos ver abaixo, o link da
 
 ## Aula 25 - Caminhos e URLS
 Aqui aprenderemos como a URL funciona sendo que seu significado é **Uniform Resource Locator** que é uma sequência de texto que define onde algo está localizado na web
+
+## Aula 26 - Como navegar pelos diretórios
+Também podemos criar link para abrir arquivos salvo em nosso computador para isso basta informar o caminho que ele encontra, a pasta onde o arquivo está salvo é considerado como raiz, a partir deste local podemos chegar a outros e se quisermos voltar uma pasta comodemos usar o comando de dois pontos com barra
+````
+../
+````
