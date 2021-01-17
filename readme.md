@@ -262,3 +262,6 @@ Para ajudar os programas de acessibilidade devemos usar o comando abaixo para fa
 ````
 scope=""
 ````
+
+## Aula 38 - Head
+O head é o cabeçalho que existe em todas as páginas mais ele não é visível para o usuário, ele serve para definir configurações como título da página, ícone, grupo de caracteres e muito mais
