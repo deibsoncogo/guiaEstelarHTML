@@ -256,3 +256,9 @@ Para isso temos os comandos abaixo em combinação do style
 </colgroup>
   
 ````
+
+## Aula 37 - Melhorando acessibilidade
+Para ajudar os programas de acessibilidade devemos usar o comando abaixo para falar que certa célula foi mesclada ou se não foi
+````
+scope=""
+````
