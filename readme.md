@@ -103,3 +103,16 @@ Temos os comandos abaixo que são utilizado
 <ol></ol>  <!-- CRIA UMA LISTA COM NÚMEROS -->
 <li></li> <!-- CRIA UMA LINHA -->
 ````
+
+## Aula 16 - Citações
+Temos um recurso que podemos usar para falar que o conteúdo que existe em nosso site é uma citação, por exemplo
+````
+<blockquote></blockquote> <!-- TAG ESPECIAL PARA CITAÇÕES -->
+<a></a> <q></q> <!-- PODEMOS USAR ESTE GENÉRICO --->
+````
+
+Mais todos modelos acima precisa combinar com este comando informando o link tanto no formato de uma tag ou atributo
+````
+<cite></cite>
+cite=""
+````
