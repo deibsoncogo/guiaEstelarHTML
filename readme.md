@@ -218,3 +218,12 @@ Para criar uma tabela precisamos dos comandos abaixo
 <th></th> <!-- DEFINE O NOME DE UMA COLUNA (CABEÇALHO) -->
 <td></td> <!-- DEFINE O VALOR DE UMA COLUNA -->
 ````
+
+## Aula 32 - Organizando tabelas
+Agora criamos os delimitadores da tabela e seu título
+````
+<caption></caption> <!-- TÍTULO DA TABELA -->
+<thead></thead> <!-- DEFINE ONDE INICIA O CABEÇALHO -->
+<tbody></tbody> <!-- DEFINE ONDE INICIA AS LINHAS COM OS DADOS -->
+<tfoot></tfoot> <!-- DEFINE A ÁREA DE TOTAL -->
+````
