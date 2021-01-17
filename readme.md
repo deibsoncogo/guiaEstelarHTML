@@ -96,3 +96,10 @@ A utilização destes elemento cria um texto semântico assim permitindo uma exp
 
 ## Aula 15 - Listas
 As listas podem ser criadas em forma ordenada ou não
+
+Temos os comandos abaixo que são utilizado
+````
+<ul></ul> <!-- CRIA UMA LISTA COM PONTOS -->
+<ol></ol>  <!-- CRIA UMA LISTA COM NÚMEROS -->
+<li></li> <!-- CRIA UMA LINHA -->
+````
