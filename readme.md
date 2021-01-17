@@ -194,3 +194,6 @@ Também podemos criar link para abrir arquivos salvo em nosso computador para is
 
 ## Aula 27 - Caminhos absolutos vs relátivos
 Uma URL absoluta é quando informamos um caminho exato e completo como um endereço de site, e a relátiva seria quando usamos um caminho de aquivo salvo no nosso computador
+
+## Aula 28 - Exercício de apresentação
+Agora terei que resolver um exercício, na próxima aula iremos ver se todas as informações estão corretas
