@@ -171,3 +171,14 @@ framename: No iframe nomeado
 
 ## Aula 23 - Utilizando a tag âncora
 Nesta aula iremos o conteúdo mostrado na aula anterior
+
+## Aula 24 - Conteúdos dentro de elemento a
+Podemos colocar qualquer coisa dentro de um a como podemos ver abaixo, o link da imagem trans uma nova sempre que a página é atualizada
+````
+<a href="https://google.com.br" title="Ir para a Google">
+  <h1>Google</h1>
+  <p>Claro que posso</p>
+  <img src="https://source.unsplash.com/random" alt="Imagem">
+</a>
+
+````
