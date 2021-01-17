@@ -182,3 +182,6 @@ Podemos colocar qualquer coisa dentro de um a como podemos ver abaixo, o link da
 </a>
 
 ````
+
+## Aula 25 - Caminhos e URLS
+Aqui aprenderemos como a URL funciona sendo que seu significado é **Uniform Resource Locator** que é uma sequência de texto que define onde algo está localizado na web
