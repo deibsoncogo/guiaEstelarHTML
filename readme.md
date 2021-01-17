@@ -122,3 +122,9 @@ Temos um tag especifica para realizar abreviações de palavras onde quando colo
 ````
 <abbr title=""></abbr>
 ````
+
+## Aula 18 - Detalhes de contato
+A tag abaixo serve para referencia o contato do criador de algo da página e não como um endereço para correspondência
+````
+<address></address>
+````
