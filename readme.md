@@ -93,3 +93,6 @@ Devemos criar grupos por tipo de dado como cabeçalho, rodapé, fotos e outros
 
 ## Aula 14 - Títulos e Parágrafos
 A utilização destes elemento cria um texto semântico assim permitindo uma experiencia para o usuário boa, pois um site mal montado todos iram ignorar
+
+## Aula 15 - Listas
+As listas podem ser criadas em forma ordenada ou não
