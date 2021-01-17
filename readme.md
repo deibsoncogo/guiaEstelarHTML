@@ -128,3 +128,10 @@ A tag abaixo serve para referencia o contato do criador de algo da página e nã
 ````
 <address></address>
 ````
+
+## Aula 19 - Lista de descrição
+Temos um outro tipo de agrupamento de dados como lista
+````
+<dt></dt>
+<dd></dd>
+````
