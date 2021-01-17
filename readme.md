@@ -116,3 +116,9 @@ Mais todos modelos acima precisa combinar com este comando informando o link tan
 <cite></cite>
 cite=""
 ````
+
+## Aula 17 - Abreviações
+Temos um tag especifica para realizar abreviações de palavras onde quando colocamos a seta do mouse sobre ela vai aparecer um pop-up descrevendo
+````
+<abbr title=""></abbr>
+````
