@@ -231,3 +231,10 @@ Agora criamos os delimitadores da tabela e seu título
 ## Aula 33 - Tabela complexa
 Vimos um moledo onde a tabela possui diversos cabeçalhos
 Com isso na próxima aula iremos montar ele
+
+## Aula 34 - THead complexa
+Temos os atributos abaixo que possui poder de mesclar células
+````
+rowspan="" <!-- MESCLA LINHAS -->
+colspan="" <!-- MESCLA COLUNAS -->
+````

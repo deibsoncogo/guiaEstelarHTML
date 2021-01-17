@@ -1,32 +1,20 @@
-<!-- Aula 32 Organizando tabelas -->
+<!-- Aula 34 THead complexa -->
 
-<table> <!-- CRIA A TABELA -->
-  <!-- TÍTULO DA TABELA -->
-  <caption>Pessoas por idade</caption>
+<table>
+  <caption>Produzidos x Vendidos x Lojas</caption>
+  
+  <thead>
+    <tr>
+      <th rowspan="2"></th> <!-- MESCLA LINHAS -->
+      <th colspan="2">Afonso Pena</th> <!-- MESCLA COLUNAS -->
+      <th colspan="2">Antônio Pereira</th>
+    </tr>
 
-  <thead> <!-- DEFINE ONDE INICIA O CABEÇALHO -->
-    <tr> <!-- CRIA UMA LINHA -->
-      <th>Nome</th> <!-- DEFINE O NOME DE UMA COLUNA (CABEÇALHO) -->
-      <th>Idade</th>
+    <tr>
+      <th>Produzidos</th>
+      <th>Vendidos</th>
+      <th>Produzidos</th>
+      <th>Vendidos</th>
     </tr>
   </thead>
-  
-  <tbody> <!-- DEFINE ONDE INICIA AS LINHAS COM OS DADOS -->
-    <tr>
-      <td>Mayk</td> <!-- DEFINE O VALOR DE UMA COLUNA -->
-      <td>35</td>
-    </tr>
-    
-    <tr>
-      <td>Diego</td>
-      <td>25</td>
-    </tr>
-  </tbody>
-  
-  <tfoot> <!-- DEFINE A ÁREA DE TOTAL -->
-    <tr>
-      <td>Total:</td>
-      <td>2 pessoas</td>
-    </tr>
-  </tfoot>
 </table>
