@@ -197,3 +197,12 @@ Uma URL absoluta é quando informamos um caminho exato e completo como um endere
 
 ## Aula 28 - Exercício de apresentação
 Agora terei que resolver um exercício, na próxima aula iremos ver se todas as informações estão corretas
+
+## Aula 29 - Exercício de resolução
+Agora iremos corrigir o projeto que desenvolvi baseando no solicitado da última aula
+
+Uma falha foi a não criação dos arquivos principais por um dos atalhos abaixo
+````
+!
+html:5
+````
