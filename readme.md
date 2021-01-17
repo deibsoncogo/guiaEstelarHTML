@@ -241,3 +241,18 @@ colspan="" <!-- MESCLA COLUNAS -->
 
 ## Aula 35 - TBody complexo
 Para criar o body foi fácil pois a parte complexa erá o cabeçalho
+
+## Aula 36 - Melhorando o aspecto com colgroup
+Agora fizemos uma estilização das colunas aplicando uma cor
+
+Para isso temos os comandos abaixo em combinação do style
+````
+<colgroup> <!-- AGRUPA AS COLUNAS -->
+  <!-- SELECIONA A COLUNA A APLICA A COR -->
+  <col style="background-color: grey;">
+  <!-- SPAN DEFINE QUANTAS COLUNA QUE RECEBER AS CONFIGURAÇÕES -->
+  <col span="2" style="background-color: red;">
+  <col span="2" style="background-color: blue;">
+</colgroup>
+  
+````
