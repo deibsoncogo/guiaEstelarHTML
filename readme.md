@@ -209,3 +209,12 @@ html:5
 
 ## Aula 30 - Tabelas
 Aprendemos a criar tabelas, elas realizam uma organização de dados perfeita mais elas são pouca flexível assim dependente de onde ela é acessada pode ficar distorcida e ela precisa de estilização, não devemos usar para criar layout
+
+## Aula 31 - Tabela básica
+Para criar uma tabela precisamos dos comandos abaixo
+````
+<table></table> <!-- CRIA A TABELA -->
+<tr></tr> <!-- CRIA UMA LINHA -->
+<th></th> <!-- DEFINE O NOME DE UMA COLUNA (CABEÇALHO) -->
+<td></td> <!-- DEFINE O VALOR DE UMA COLUNA -->
+````
