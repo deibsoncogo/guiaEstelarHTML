@@ -268,3 +268,10 @@ O head é o cabeçalho que existe em todas as páginas mais ele não é visível
 
 ## Aula 39 - Meta
 Os meta dados serve para realizar algumas configurações como a codificação dos caracteres a portabilidade para dispositivos mobiles
+
+## Aula 40 - Favicon
+Favicon é o ícone que aparece no canto na aba do site
+Ele pode ser criado automaticamente por firework ou manualmente, independente da sua forma de criação ele ficará no cabeçalho em uma tag de link
+````
+<link rel="icon" href="https://developer.cdn.mozilla.net/static/img/favicon57.a2490b9a2d76.png">
+````
