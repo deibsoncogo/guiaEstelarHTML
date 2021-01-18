@@ -285,3 +285,6 @@ Ele usa as atributos de metas para trazer resultados como
   <meta name="description" content="">
   <meta name="robots" content="">
 ````
+
+## Aula 42 - Meta social
+Existe meta dados personalizados criado por empresas como o Open Graph do Facebook
