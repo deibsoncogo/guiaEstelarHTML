@@ -275,3 +275,13 @@ Ele pode ser criado automaticamente por firework ou manualmente, independente da
 ````
 <link rel="icon" href="https://developer.cdn.mozilla.net/static/img/favicon57.a2490b9a2d76.png">
 ````
+
+## Aula 41 - Meta SEO
+O SEO é Search Engine Optimization que é responsável por dar informações para os motores de busca como site da Google
+
+Ele usa as atributos de metas para trazer resultados como
+````
+<meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="robots" content="">
+````
