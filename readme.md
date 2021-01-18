@@ -265,3 +265,6 @@ scope=""
 
 ## Aula 38 - Head
 O head é o cabeçalho que existe em todas as páginas mais ele não é visível para o usuário, ele serve para definir configurações como título da página, ícone, grupo de caracteres e muito mais
+
+## Aula 39 - Meta
+Os meta dados serve para realizar algumas configurações como a codificação dos caracteres a portabilidade para dispositivos mobiles
